@@ -33,7 +33,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,c,java,cs,php,arduino,mysql,figma,github,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,cs,php,react,javascript,typescript,arduino,mysql,figma,github,vscode,git" />
   </a>
 </p>
 
