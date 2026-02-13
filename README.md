@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 I am a passionate **Software Engineering** student with a strong focus on building efficient applications and exploring the world of hardware. I bridge the gap between creative design and technical implementation.
 
-- 🔭 **Currently working on:** Advanced **Algorithm Optimization** and **Software Quality Assurance** projects.
-- 🌱 **Learning:** Deepening my knowledge in **Financial Analysis** and **Accounting Systems**.
-- 🛠️ **Hardware:** I love experimenting with **Arduino Uno** and embedded sensor integration.
-- 🎨 **Creative:** I enjoy graphic design, specifically creating logos and content for Sri Lankan cultural events.
+- 🔭 **Currently working on:** Advanced **Web Applicatins Development** and **Software Quality Assurance** projects.
+- 🌱 **Learning:** Deepening my knowledge in **Data Science Field** and **AI/ML Fields**.
+- 🛠️ **Hardware:** I love experimenting with **New Industrial Technologies**.
+- 🎨 **Creative:** I enjoy graphic design, specifically creating flyers on special events and content for Sri Lankan cultural events.
 
 ---
 
