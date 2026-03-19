@@ -39,7 +39,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,php,cs,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,php,cs" />
 </p>
 
 #### Database
@@ -47,9 +47,9 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-#### IDE / Editor
+#### Embedded / IoT
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 #### Version Control
@@ -60,6 +60,11 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 #### Design & UI/UX
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+#### IDE / Editor
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,intellij" />
 </p>
 
 ---
