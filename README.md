@@ -31,10 +31,35 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 ---
 
 ### 🛠 Tech Stack & Tools
+
+#### Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,cs,php,react,html,css,tailwindcss,javascript,typescript,arduino,mysql,figma,github,vscode,git,canva" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss" />
+</p>
+
+#### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java,php,cs,arduino" />
+</p>
+
+#### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+#### Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+#### Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+#### Design & UI/UX
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ---
