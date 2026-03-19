@@ -51,6 +51,9 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 ### 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anushka's LinkedIn" height="30" width="40" /></a>
+<a href="mailto:your-email@gmail.com">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Anushka's Gmail" height="30" width="40" />
+</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Micael-Andrade/Micael-Andrade/master/assets/space-rainbow.gif" width="100%">
