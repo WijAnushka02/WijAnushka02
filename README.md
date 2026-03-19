@@ -64,7 +64,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### IDE / Editor
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
@@ -80,18 +80,24 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anushka's LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Anushka's Facebook" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anushka's Instagram" height="30" width="40" />
-</a>
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Anushka's Telegram" height="30" width="40" />
-</a>
-<a href="mailto:your-email@gmail.com">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Anushka's Gmail" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /> <b>LinkedIn</b>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" /> <b>Facebook</b>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /> <b>Instagram</b>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" /> <b>Telegram</b>
+  </a> &nbsp;&nbsp;
+
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" /> <b>Gmail</b>
+  </a>
 </p>
 
