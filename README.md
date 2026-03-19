@@ -57,6 +57,9 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anushka's Instagram" height="30" width="40" />
 </a>
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Anushka's Telegram" height="30" width="40" />
+</a>
 <a href="mailto:your-email@gmail.com">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Anushka's Gmail" height="30" width="40" />
 </a>
