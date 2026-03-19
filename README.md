@@ -65,6 +65,4 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-
-<img src="https://raw.githubusercontent.com/Micael-Andrade/Micael-Andrade/master/assets/space-rainbow.gif" width="100%">
+<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="100%">
