@@ -65,4 +65,4 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 </a>
 </p>
 
-<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="100%">
+<img src="assets/banner.gif" width="100%">
