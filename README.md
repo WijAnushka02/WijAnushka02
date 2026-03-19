@@ -109,7 +109,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+  <a href="https://x.com/@ADilinuwan75478" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
