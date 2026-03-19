@@ -54,8 +54,12 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Anushka's Facebook" height="30" width="40" />
 </a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anushka's Instagram" height="30" width="40" />
+</a>
 <a href="mailto:your-email@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Anushka's Gmail" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Anushka's Gmail" height="30" width="40" />
+</a>
 </a>
 </p>
 
