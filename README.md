@@ -47,7 +47,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-#### Cloud & Deployment
+#### IDE / Editor
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
