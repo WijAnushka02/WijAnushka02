@@ -78,6 +78,8 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 ---
 
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&theme=dark)
+
 ### 📫 Connect with me
 
 <p>
