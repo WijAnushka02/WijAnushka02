@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Software%20Engineer%20%26%20Designer&fontSize=40&animation=fadeIn" />
+  <img src=["https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Software%20Engineer%20%26%20Designer&fontSize=40&animation=fadeIn"](https://media.sketchfab.com/models/93518f94ebd540c3b9da45ab67cf5590/thumbnails/0c66f286a35b4fdcb2b064a5b1377c90/f13d6d2109214aa1b0e00d70376ab01c.jpeg) />
 </p>
 
 ### 🚀 About Me
