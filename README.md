@@ -101,7 +101,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
-  <a href="https://www.threads.net/YOUR_THREADS_USERNAME" target="_blank">
+  <a href="https://www.threads.net/anushka_dilinuwan" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 
