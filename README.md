@@ -76,6 +76,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 #### IDE / Editor
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="48"/>
 </p>
 
 ---
