@@ -54,7 +54,8 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### PM/BA/QA
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" height="48"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="48"/>
+  <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="48"/>
 </p>
 
 #### Embedded / IoT
