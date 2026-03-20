@@ -44,7 +44,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,jupyter" />
 </p>
 
 #### Embedded / IoT
