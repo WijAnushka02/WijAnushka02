@@ -54,7 +54,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### PM/BA/QA
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jira" />
+  <img src="https://cdn.simpleicons.org/jira" width="48" height="48"/>
 </p>
 
 #### Embedded / IoT
