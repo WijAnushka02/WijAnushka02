@@ -50,6 +50,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 #### Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://cdn.simpleicons.org/azure/0078D4" height="48"/>
 </p>
 
 #### PM/BA/QA
