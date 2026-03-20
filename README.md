@@ -45,6 +45,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 #### Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" height="48" style="fill:#F37626"/>
 </p>
 
 #### Cloud
