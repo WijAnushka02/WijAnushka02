@@ -34,7 +34,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,bootstrap" />
 </p>
 
 #### Backend
