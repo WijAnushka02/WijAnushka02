@@ -58,6 +58,12 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
   <!-- Matplotlib -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
+
+  <!-- Seaborn (no official devicon, using simple icon) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" height="48"/>
 </p>
 
 #### Cloud
