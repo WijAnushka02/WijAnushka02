@@ -48,6 +48,18 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="48"/>
 </p>
 
+#### Data Science / Data Analysis
+<p align="left">
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
+
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48"/>
+
+  <!-- Matplotlib -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="48"/>
+</p>
+
 #### Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=azure" />
