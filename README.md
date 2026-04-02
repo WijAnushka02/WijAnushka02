@@ -50,6 +50,9 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### Data Science / Data Analysis
 <p align="left">
+  <!-- Power BI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" height="48"/>
+  
   <!-- Pandas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
 
