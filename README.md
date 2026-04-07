@@ -93,6 +93,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 #### Design & UI/UX
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,canva" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="48"/>
 </p>
 
 #### IDE / Editor
