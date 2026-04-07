@@ -34,7 +34,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 #### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwindcss,bootstrap" />
 </p>
 
 #### Backend
@@ -99,6 +99,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://cdn.simpleicons.org/intellijidea/000000" height="48"/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
 </p>
 
 ---
