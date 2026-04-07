@@ -117,6 +117,13 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
   <img src="https://streak-stats.demolab.com/?user=WijAnushka02&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/WijAnushka02?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/WijAnushka02?style=social" />
+  <img src="https://img.shields.io/github/issues/WijAnushka02?style=social" />
+  <img src="https://img.shields.io/github/forks/WijAnushka02?style=social" />
+</p>
+
 ---
 
 ### 🏆 Achievements
