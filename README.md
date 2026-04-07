@@ -119,7 +119,6 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/WijAnushka02?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/WijAnushka02?style=social" />
   <img src="https://img.shields.io/badge/Total%20Stars-12-blue?logo=github&style=social" />
   <img src="https://img.shields.io/badge/Total%20Forks-5-blue?logo=github&style=social" />
 </p>
