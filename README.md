@@ -106,10 +106,25 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WijAnushka02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anushka's GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=WijAnushka02&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Anushka's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <br/>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WijAnushka02&theme=react&hide_border=true" alt="GitHub Streak" />
+  <br/>
+
+  <!-- Extra Badges -->
+  <img src="https://img.shields.io/github/followers/WijAnushka02?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/WijAnushka02?style=social" />
+  <img src="https://img.shields.io/github/issues/WijAnushka02?style=social" />
+  <img src="https://img.shields.io/github/forks/WijAnushka02?style=social" />
 </p>
 ---
 
