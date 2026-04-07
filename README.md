@@ -107,11 +107,10 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WijAnushka02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anushka's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WijAnushka02&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anushka's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Connect with me
