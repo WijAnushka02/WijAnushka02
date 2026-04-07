@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 I am a passionate **Software Engineering** student with a strong focus on building efficient applications and exploring the world of hardware. I bridge the gap between creative design and technical implementation.
 
-- 🔭 **Currently working on:** Advanced **Web Applications Development** projects.
-- 🌱 **Learning:** Deepening my knowledge in **Data Science Field** and **AI/ML Fields**.
-- 🛠️ **Hardware:** I love experimenting with **New Industrial Technologies**.
-- 🎨 **Creative:** I enjoy graphic design, specifically creating flyers on special events and content for Sri Lankan cultural events.
-
+- 🔭 **Currently working on:** Advanced **Web Applications Development** and **Data Science** projects.
+- 🌱 **Learning:** Deepening my knowledge in **AI/ML Fields**.
+- ⚙️ **Industrial Tech:** Curious about and experimenting with **New Industrial Technologies**.
+  
 ---
 
 ### 🛠 Tech Stack & Tools
