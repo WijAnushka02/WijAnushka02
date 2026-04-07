@@ -117,7 +117,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&hide_border=true&theme=dark" alt="Top Languages" height="130"/>
-  </p>
+  <br/>
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WijAnushka02&theme=react&hide_border=true" alt="GitHub Streak" />
