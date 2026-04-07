@@ -134,6 +134,16 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
   <img src="https://komarev.com/ghpvc/?username=WijAnushka02&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
 </p>
 
+### 🎖️ Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Google-Cloud_Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/UoK-Software_Engineer-800000?style=for-the-badge&logo=university&logoColor=white" />
+</p>
+
 ### 📫 Connect with me
 
 <p align="left">
