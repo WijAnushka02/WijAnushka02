@@ -105,24 +105,17 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 ---
 
-### 📊 GitHub Activity
+#### 📊 GitHub Activity
 
 <p align="center">
- ### 📊 GitHub Activity
-
-<p align="center">
-  <!-- GitHub Stats (Contributions, Stars, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=WijAnushka02&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="Anushka's GitHub Stats" height="180"/>
-  <br/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=WijAnushka02&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="Anushka's GitHub Stats" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&hide_border=true&theme=dark" alt="Top Languages" height="130"/>
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijAnushka02&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WijAnushka02&theme=react&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WijAnushka02&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
