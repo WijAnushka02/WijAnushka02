@@ -119,15 +119,13 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WijAnushka02&theme=dracula&no-frame=true&column=4" alt="Anushka's Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=WijAnushka02&theme=darkhub&no-bg=true&margin-w=15" alt="Anushka's Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WijAnushka02&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@WijAnushka02?theme=rule_34" alt="Visitor Count" />
 </p>
 
 ---
