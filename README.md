@@ -121,13 +121,12 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WijAnushka02&theme=dracula&no-frame=false&margin-w=15" alt="Anushka's Trophies" />
+  <img src="https://github-profile-trophy-one.vercel.app/?username=WijAnushka02&theme=dracula&no-frame=false&margin-w=15" alt="Anushka's Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FWijAnushka02%2Fvisits&color=blue&style=for-the-badge&logo=github" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=WijAnushka02&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
 </p>
----
 
 ### 📫 Connect with me
 
