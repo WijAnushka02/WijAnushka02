@@ -122,12 +122,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WijAnushka02&theme=react&hide_border=true" alt="GitHub Streak" />
   <br/>
-
-  <!-- Extra Badges -->
-  <img src="https://img.shields.io/github/followers/WijAnushka02?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/WijAnushka02?style=social" />
-  <img src="https://img.shields.io/github/issues/WijAnushka02?style=social" />
-  <img src="https://img.shields.io/github/forks/WijAnushka02?style=social" />
+  
 </p>
 ---
 
