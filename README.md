@@ -77,7 +77,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 <p align="left">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="48"/>
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="48"/>
-  <img src="https://img.shields.io/badge/TestCafe-1D1D1B?style=for-the-badge&logo=testcafe&logoColor=white" height="48"/>
+  <img src="https://raw.githubusercontent.com/DevExpress/testcafe/master/media/logo.svg" height="48" style="max-width: 100%;"/>
 </p>
 
 #### Embedded / IoT
