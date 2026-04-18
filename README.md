@@ -77,7 +77,7 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 <p align="left">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="48"/>
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/testcafe/testcafe-icon.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/DevExpress/testcafe/master/media/logo.svg" height="48"/>
 </p>
 
 #### Embedded / IoT
