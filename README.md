@@ -151,18 +151,6 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
    <a href="https://t.me/Anukkaya" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  
-  <a href="https://www.facebook.com/anushka.wijesinghe.587" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
-  <a href="https://www.instagram.com/anushka_dilinuwan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-  <a href="https://www.threads.net/anushka_dilinuwan" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
-  </a>
 
   <a href="https://x.com/@ADilinuwan75478" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
