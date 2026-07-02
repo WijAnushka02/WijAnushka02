@@ -124,15 +124,6 @@ I am a passionate **Software Engineering** student with a strong focus on buildi
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy-one.vercel.app/?username=WijAnushka02&theme=dracula&no-frame=false&margin-w=15" alt="Anushka's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WijAnushka02&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
-</p>
-
 ### 📫 Connect with me
 
 <p align="left">
